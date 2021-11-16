@@ -18,8 +18,8 @@
             <span class="bar"></span>
         </div>
         <div class="navbar__menu">
-            <a href="/index.html" class="navbar__link">home</a>
-            <a href="/charityfunds.html" class="navbar__link">charity funds</a>
+            <a href="/index.md" class="navbar__link">home</a>
+            <a href="/charityfunds.md" class="navbar__link">charity funds</a>
             <a href="/additionalfunds.html" class="navbar__link">additional funds</a>
             <a href="/results.html" class="navbar__link">results</a>
             <a href="/needvolunteers.html" class="navbar__link">need volunteers</a>
